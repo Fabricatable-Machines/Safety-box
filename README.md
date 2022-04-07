@@ -17,6 +17,7 @@ General purpose safety unit for DIY machines running on 110-230V AC single phase
  - Safety relay
  - 2x Safety contactors
  - Din rail
+ - Terminal blocks inlcuding grounding
  - Wires
  - Cable management
 
@@ -26,6 +27,8 @@ General purpose safety unit for DIY machines running on 110-230V AC single phase
  - Power switch
  - Power socket for 110v-230v AC?
  - Power socket fot 24V power in?
+ - A cable hole with gland for 110v-230v AC out
+ - A cable hole with gland 24V DC out
  - Labels
 
 **External components:**
@@ -43,8 +46,6 @@ General purpose safety unit for DIY machines running on 110-230V AC single phase
 
 **Elfadistrelec:**
  - The same G9SE-201-DC24
-
-
 
 ### Resources
  - [Great write up](https://github.com/fellesverkstedet/fabricatable-machines/wiki/Safety-and-liability)] by Jakob Nilsson in the Fabricatable machines archive wiki
