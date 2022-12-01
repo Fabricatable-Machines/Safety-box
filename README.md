@@ -41,7 +41,7 @@ General purpose safety unit for DIY machines running on 110-230V AC single phase
  - [Safety relay](https://no.rs-online.com/web/p/safety-relays/8903389) - G9SE-201-DC24
 
 **Digieky:**
- - The same G9SE-201-DC24
+ - The same G9SE-201-DC24 https://www.digikey.no/en/products/detail/omron-automation-and-safety/G9SE-201/7495167
  - Enclosure with transparent lid
 
 **Elfadistrelec:**
